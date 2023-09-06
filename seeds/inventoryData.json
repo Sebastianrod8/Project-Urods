@@ -1,0 +1,97 @@
+[
+    {
+        "product_name": "white opal",
+        "quantity": 2,
+        "stock_id": 12,
+        "filename": "images/white opal.webp",
+        "description": "very rare piece.",
+        "category_id": 1
+    },
+    {
+        "product_name": "cutted opal",
+        "quantity": 3,
+        "stock_id": 2,
+        "filename": "images/cut opal category.jpg",
+        "description": "Opal shaped by jeweller.",
+        "category_id": 1
+    },
+    {
+        "product_name": "black opal",
+        "quantity": 1,
+        "stock_id": 5,
+        "filename": "images/Black opal.jpg",
+        "description": "amazing colours in this piece.",
+        "category_id": 1
+    },
+    {
+        "product_name": "cut opal",
+        "quantity": 2,
+        "stock_id": 6,
+        "filename": "images/cut opal.jpg",
+        "description": "handmade cutted stone.",
+        "category_id": 1
+    },
+    {
+        "product_name": "Rough Opal",
+        "quantity": 2,
+        "stock_id": 1,
+        "filename": "images/rough opal category.jpg",
+        "description": "Rough Opal, it is Opal thats has not been shaped.",
+        "category_id": 2
+    },
+    {
+        "product_name": "rough opal 2",
+        "quantity": 2,
+        "stock_id": 9,
+        "filename": "images/rough opal 2.webp",
+        "description": "simple.",
+        "category_id": 2
+    },
+    {
+        "product_name": "matrix opal",
+        "quantity": 1,
+        "stock_id": 7,
+        "filename": "images/matrix opal.jpg",
+        "description": "a different kind known as matrix, incredible colours.",
+        "category_id": 2
+    },
+    {
+        "product_name": "mini pendent opal",
+        "quantity": 1,
+        "stock_id": 8,
+        "filename": "images/mini pendent opal.avif",
+        "description": "amazing smalll pendent.",
+        "category_id": 3
+    },
+    {
+        "product_name": "art opal",
+        "quantity": 1,
+        "stock_id": 4,
+        "filename": "images/art opal.jpg",
+        "description": "artistic design.",
+        "category_id": 3
+    },
+    {
+        "product_name": "Surf opal pendent",
+        "quantity": 1,
+        "stock_id": 10,
+        "filename": "images/surf-opal-pendant-SO56.jpg",
+        "description": "opal designed for surfers.",
+        "category_id": 3
+    },   {
+        "product_name": "warrior opal pendent",
+        "quantity": 1,
+        "stock_id": 11,
+        "filename": "images/warrior opal.jpg",
+        "description": "opal with a strong meaning",
+        "category_id": 3
+    },
+    {
+        "product_name": "airplane pendant",
+        "quantity": 1,
+        "stock_id": 3,
+        "filename": "images/aiplane pendant opal.jpg",
+        "description": "this pendent was made with white opal.",
+        "category_id": 3
+    }
+]
